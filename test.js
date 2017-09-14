@@ -1,1 +1,1 @@
-var a = "te1st";
+var a = "test";
